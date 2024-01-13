@@ -1,0 +1,18 @@
+{
+  "name": "regex-helper-collection",
+  "version": "1.0.3",
+  "description": "regex helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pulkit Gupta <pulkitgupta299@gmail.com> (https://github.com/P29091999/)",
+  "license": "MIT",
+  "keywords": [
+    "regex",
+    "regexp"
+  ],
+  "dependencies": {
+    "regex-helper-collection": "^1.0.3"
+  }
+}
