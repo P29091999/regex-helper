@@ -15,5 +15,4 @@ console.log('Mobile Number Check:', mobileNumberCheck);
 const emailCheck = regexHelper.emailRegex.test('test@@@example.com');
 console.log('Email Address Check:', emailCheck);
 
-// Add more sample checks as needed
 
